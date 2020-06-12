@@ -1,0 +1,20 @@
+﻿Branches \ Test Cases,user=null,"[Blagoj,null,..]","[Blagoj, BlAgoj12,..]","[Blagoj, janakievski12]","[Blagoj, J@nakievski12,..]"
+A-M,*,,,,
+A-B,,*,*,*,*
+B-M,,*,,,
+B-C,,,*,*,*
+C-M,,,*,,
+C-D,,,,*,*
+D-E,,,,*,*
+D-K,,,,*,*
+E-F,,,,*,*
+F-G,,,,*,*
+E-G,,,,*,*
+G-H,,,,,*
+H-I,,,,,*
+G-I,,,,*,*
+I-J,,,,,*
+I-D,,,,*,*
+J-D,,,,,*
+K-L,,,,*,
+K-M,,,,,*
