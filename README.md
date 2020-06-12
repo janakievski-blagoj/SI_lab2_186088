@@ -9,6 +9,7 @@
 
 Control Flow Graph-от го нацртав во draw.io и може да се виде на следната слика, додека пак именувањата на јазлите се направени според линиите код во функцијтата „function“. Кодот заедно со означените линиите како јазли може да се виде во датотеката node_names.txt.
 
+![](ControlFlowGraph.png)
 
 **Цикломатска комплексност**
 
@@ -29,6 +30,7 @@ Multiple Condition критериумот ги разгледува сите о�
 8. user = [Blagoj, janakievski12, janakievskibaze@gmail.com] 
 9. user = [Blagoj, J@nakievski12, janakievskibaze@gmail.com]
 
+![](multiple_conditions.jpg)
 
 **Тест случаеви според критериумот Every Branch**
 
@@ -39,3 +41,5 @@ Every Branch методата е всушност правење тест слу
 3. user = [Blagoj, BlAgoj12, janakievskibaze@gmail.com]
 4. user = [Blagoj, janakievski12, janakievskibaze@gmail.com]
 5. user = [Blagoj, J@nakievski12, janakievskibaze@gmail.com]
+
+![](every_branch.jpg)
